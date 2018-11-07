@@ -1,2 +1,2 @@
-print("Çהנאסüעו ץףÿסüעו!?")
-print("Hello")
+print("Çהנאסüעו ץףÿסüעו!?;")
+print("Hello;")
