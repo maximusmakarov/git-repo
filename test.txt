@@ -1,4 +1,5 @@
-print(u"Çהנאסüעו ץףÿסüעו!?")
-print("Hello")
-print("Hello my dear friend")
-print("Glad to see you")
+print("Çהנאסüעו ץףÿסüעו!?;")
+print("Hello;")
+print("Hello my dear friend;")
+print("Glad to see you;")
+
