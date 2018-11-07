@@ -1,2 +1,3 @@
-print("Çהנאסüעו ץףÿסüעו!?")
+print(u"Çהנאסüעו ץףÿסüעו!?")
 print("Hello")
+print("Hello my dear friend")
